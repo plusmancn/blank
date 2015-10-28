@@ -1,0 +1,23 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "description": "a simple static blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusmancn/blank.git"
+  },
+  "keywords": [
+    "static",
+    "blog"
+  ],
+  "author": "plusmancn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plusmancn/blank/issues"
+  },
+  "homepage": "https://github.com/plusmancn/blank#readme"
+}
